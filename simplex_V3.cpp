@@ -165,11 +165,7 @@ void printResult() {
     for(int i = 0; i < constrainsNo; i++) {
         int varIndex = basic[i];
         
-        if (varIndex < variablesNo) {
-            // It is a Decision Variable (e.g., x1, x2...)
-            varValues[varIndex] = tableau[i + 1][columns - 1];
-        } else {
-            // It is a Slack/Surplus Variable (e.g., s1, s2...)
+        if (varIndex < objective) {
             varValues[varIndex] = tableau[i + 1][columns - 1];
         }
     }
