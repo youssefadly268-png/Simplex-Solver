@@ -1,16 +1,16 @@
 /**
 this is a simple implementation of simplex method in c++.
-this code for just 2 variables and 2 constraints.
-it can be extended to n variables and m constraints.
-it is a work in progress and will be updated soon.
+this code for just primal simplex Method.
+it extended to n variables and m constraints.
+it is a work in progress and will be updated.
 I work on it as a test project for my own learning and understanding of the simplex method.
 
 vector<double*> tableau is used to store the tableau of the simplex method.
 the first row of the tableau is used to store the objective function coefficients.
-the second and third rows are used to store the constraint coefficients and the right-hand side values.
-the fourth row is used to store Zj.
-the fifth row is used to store Cj-Zj.
-the sixth row is used to store the basic variable values.
+the inner constrain number of rows are used to store the constraint coefficients and the right-hand side values.
+the before last row is used to store Zj.
+the last row is used to store Cj-Zj.
+A new vector is used to store the basic variable places from the objective row.
 **/
 #include <iostream>
 #include <string>
