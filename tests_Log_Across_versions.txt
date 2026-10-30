@@ -1,0 +1,445 @@
+test 1 v 1
+
+12 16 0 0
+3 2 1 0 500
+4 5 0 1 800
+
+Enter the objective variables Coefficient values:
+12 16 0 0
+Enter the first constraint values:
+3 2 1 0 500
+Enter the second constraint values:
+4 5 0 1 800
+
+12 16 0 0 0
+3 2 1 0 500
+4 5 0 1 800
+0 0 0 0 0
+12 16 0 0 0
+0 0 0 0 0
+
+12 16 0 0 0
+1.4 0 1 -0.4 180
+0.8 1 0 0.2 160
+12.8 16 0 3.2 2560
+-0.8 0 0 -3.2 0
+0 16 0 0 0
+
+done!
+Enter 1 to exit
+
+
+test 2 v 1
+
+40 50 0 0
+1 2 1 0 40
+4 3 0 1 120
+
+Enter the objective variables Coefficient values:
+40 50 0 0
+Enter the first constraint values:
+1 2 1 0 40
+Enter the second constraint values:
+4 3 0 1 120
+
+40 50 0 0 0
+1 2 1 0 40
+4 3 0 1 120
+0 0 0 0 0
+40 50 0 0 0
+0 0 0 0 0
+
+40 50 0 0 0
+0.5 1 0.5 0 20
+2.5 0 -1.5 1 60
+25 50 25 0 1000
+15 0 -25 0 0
+50 0 0 0 0
+
+40 50 0 0 0
+0 1 0.8 -0.2 8
+1 0 -0.6 0.4 24
+40 50 16 6 1360
+0 0 -16 -6 0
+50 40 0 0 0
+
+done!
+Enter 1 to exit
+
+test 3 v 1 
+
+40 50 0 0
+1 2 1 0 60
+4 3 0 1 120
+
+Enter the objective variables Coefficient values:
+40 50 0 0
+Enter the first constraint values:
+1 2 1 0 60
+Enter the second constraint values:
+4 3 0 1 120
+
+40 50 0 0 0
+1 2 1 0 60
+4 3 0 1 120
+0 0 0 0 0
+40 50 0 0 0
+0 0 0 0 0
+
+40 50 0 0 0
+0.5 1 0.5 0 30
+2.5 0 -1.5 1 30
+25 50 25 0 1500
+15 0 -25 0 0
+50 0 0 0 0
+
+40 50 0 0 0
+0 1 0.8 -0.2 24
+1 0 -0.6 0.4 12
+40 50 16 6 1680
+0 0 -16 -6 0
+50 40 0 0 0
+
+done!
+Enter 1 to exit
+
+test 1 V 2
+
+2 2
+12 16 0 0
+3 2 1 0 500
+4 5 0 1 800
+
+Enter Number of variables and constrains
+2 2
+Enter the objective variables Coefficient values:
+12 16 0 0
+Enter the constraint 1 values:
+3 2 1 0 500
+Enter the constraint 2 values:
+4 5 0 1 800
+
+12 16 0 0 0
+3 2 1 0 500
+4 5 0 1 800
+0 0 0 0 0
+12 16 0 0 0
+
+12 16 0 0 0
+1.4 0 1 -0.4 180
+0.8 1 0 0.2 160
+12.8 16 0 3.2 2560
+-0.8 0 0 -3.2 0
+
+done!
+Enter 1 to exit
+
+test 2 V 2
+
+2 2
+40 50 0 0
+1 2 1 0 40
+4 3 0 1 120
+
+Enter Number of variables and constrains
+2 2
+Enter the objective variables Coefficient values:
+40 50 0 0
+Enter the constraint 1 values:
+1 2 1 0 40
+Enter the constraint 2 values:
+4 3 0 1 120
+
+40 50 0 0 0
+1 2 1 0 40
+4 3 0 1 120
+0 0 0 0 0
+40 50 0 0 0
+
+40 50 0 0 0
+0.5 1 0.5 0 20
+2.5 0 -1.5 1 60
+25 50 25 0 1000
+15 0 -25 0 0
+
+40 50 0 0 0
+0 1 0.8 -0.2 8
+1 0 -0.6 0.4 24
+40 50 16 6 1360
+0 0 -16 -6 0
+
+done!
+Enter 1 to exit
+
+test 3 V 2
+
+2 2
+40 50 0 0
+1 2 1 0 60
+4 3 0 1 120
+
+Enter Number of variables and constrains
+2 2
+Enter the objective variables Coefficient values:
+40 50 0 0
+Enter the constraint 1 values:
+1 2 1 0 60
+Enter the constraint 2 values:
+4 3 0 1 120
+
+40 50 0 0 0
+1 2 1 0 60
+4 3 0 1 120
+0 0 0 0 0
+40 50 0 0 0
+
+40 50 0 0 0
+0.5 1 0.5 0 30
+2.5 0 -1.5 1 30
+25 50 25 0 1500
+15 0 -25 0 0
+
+40 50 0 0 0
+0 1 0.8 -0.2 24
+1 0 -0.6 0.4 12
+40 50 16 6 1680
+0 0 -16 -6 0
+
+done!
+Enter 1 to exit
+
+test 4 V 2
+
+2 3
+2 4 0 0 0
+3 5 1 0 0 37
+5 3 0 1 0 30
+3 -1 0 0 1 9
+
+Enter Number of variables and constrains
+2 3
+Enter the objective variables Coefficient values:
+2 4 0 0 0
+Enter the constraint 1 values:
+3 5 1 0 0 37
+Enter the constraint 2 values:
+5 3 0 1 0 30
+Enter the constraint 3 values:
+3 -1 0 0 1 9
+
+2 4 0 0 0 0
+3 5 1 0 0 37
+5 3 0 1 0 30
+3 -1 0 0 1 9
+0 0 0 0 0 0
+2 4 0 0 0 0
+
+2 4 0 0 0 0
+0.6 1 0.2 0 0 7.4
+3.2 0 -0.6 1 0 7.8
+3.6 0 0.2 0 1 16.4
+2.4 4 0.8 0 0 29.6
+-0.4 0 -0.8 0 0 0
+
+done!
+Enter 1 to exit
+
+test 1 V 3 add optimal solution print
+
+2 2
+12 16 0 0
+3 2 1 0 500
+4 5 0 1 800
+
+
+Enter Number of variables and constrains
+2 2
+Enter the objective variables Coefficient values:
+12 16 0 0
+Enter the constraint 1 values:
+3 2 1 0 500
+Enter the constraint 2 values:
+4 5 0 1 800
+
+12 16 0 0 0
+3 2 1 0 500
+4 5 0 1 800
+0 0 0 0 0
+12 16 0 0 0
+
+12 16 0 0 0
+1.4 0 1 -0.4 180
+0.8 1 0 0.2 160
+12.8 16 0 3.2 2560
+-0.8 0 0 -3.2 0
+
+
+===============================
+       OPTIMAL SOLUTION
+===============================
+Decision Variables:
+  x1 = 0
+  x2 = 160
+
+Slack/Surplus Variables:
+  s1 = 180
+  s2 = 0
+
+Optimal Objective Value (Z) = 2560
+===============================
+done!
+Enter 1 to exit
+
+test 2 V 3
+
+2 2
+40 50 0 0
+1 2 1 0 40
+4 3 0 1 120
+
+Enter Number of variables and constrains
+2 2
+Enter the objective variables Coefficient values:
+40 50 0 0
+Enter the constraint 1 values:
+1 2 1 0 40
+Enter the constraint 2 values:
+4 3 0 1 120
+
+40 50 0 0 0
+1 2 1 0 40
+4 3 0 1 120
+0 0 0 0 0
+40 50 0 0 0
+
+40 50 0 0 0
+0.5 1 0.5 0 20
+2.5 0 -1.5 1 60
+25 50 25 0 1000
+15 0 -25 0 0
+
+40 50 0 0 0
+0 1 0.8 -0.2 8
+1 0 -0.6 0.4 24
+40 50 16 6 1360
+0 0 -16 -6 0
+
+
+===============================
+       OPTIMAL SOLUTION
+===============================
+Decision Variables:
+  x1 = 24
+  x2 = 8
+
+Slack/Surplus Variables:
+  s1 = 0
+  s2 = 0
+
+Optimal Objective Value (Z) = 1360
+===============================
+done!
+Enter 1 to exit
+
+test 3 V3
+
+2 2
+40 50 0 0
+1 2 1 0 60
+4 3 0 1 120
+
+Enter Number of variables and constrains
+2 2
+Enter the objective variables Coefficient values:
+40 50 0 0
+Enter the constraint 1 values:
+1 2 1 0 60
+Enter the constraint 2 values:
+4 3 0 1 120
+
+40 50 0 0 0
+1 2 1 0 60
+4 3 0 1 120
+0 0 0 0 0
+40 50 0 0 0
+
+40 50 0 0 0
+0.5 1 0.5 0 30
+2.5 0 -1.5 1 30
+25 50 25 0 1500
+15 0 -25 0 0
+
+40 50 0 0 0
+0 1 0.8 -0.2 24
+1 0 -0.6 0.4 12
+40 50 16 6 1680
+0 0 -16 -6 0
+
+
+===============================
+       OPTIMAL SOLUTION
+===============================
+Decision Variables:
+  x1 = 12
+  x2 = 24
+
+Slack/Surplus Variables:
+  s1 = 0
+  s2 = 0
+
+Optimal Objective Value (Z) = 1680
+===============================
+done!
+Enter 1 to exit
+
+test 4 V3
+
+2 3
+2 4 0 0 0
+3 5 1 0 0 37
+5 3 0 1 0 30
+3 -1 0 0 1 9
+
+Enter Number of variables and constrains
+2 3
+Enter the objective variables Coefficient values:
+2 4 0 0 0
+Enter the constraint 1 values:
+3 5 1 0 0 37
+Enter the constraint 2 values:
+5 3 0 1 0 30
+Enter the constraint 3 values:
+3 -1 0 0 1 9
+
+2 4 0 0 0 0
+3 5 1 0 0 37
+5 3 0 1 0 30
+3 -1 0 0 1 9
+0 0 0 0 0 0
+2 4 0 0 0 0
+
+2 4 0 0 0 0
+0.6 1 0.2 0 0 7.4
+3.2 0 -0.6 1 0 7.8
+3.6 0 0.2 0 1 16.4
+2.4 4 0.8 0 0 29.6
+-0.4 0 -0.8 0 0 0
+
+
+===============================
+       OPTIMAL SOLUTION
+===============================
+Decision Variables:
+  x1 = 0
+  x2 = 7.4
+
+Slack/Surplus Variables:
+  s1 = 0
+  s2 = 7.8
+  s3 = 16.4
+
+Optimal Objective Value (Z) = 29.6
+===============================
+done!
+Enter 1 to exit
+
